@@ -15,7 +15,7 @@
 
  * [Developer Docs](docs/en/INDEX.md)
  * [User Guide](docs/en/userguide.md)
- * [API](http://ssmods.com/apis/assets_sync_one_folder/docs/en/api/)
+ * [API Docs](http://docs.ssmods.com/sunnysideup/assets_sync_one_folder)
 
 ## Requirements
 
